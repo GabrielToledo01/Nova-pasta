@@ -1,3 +1,8 @@
+#Projeto: Sistema de Registro de Informações Médicas - Anamnese e Ficha de Prontuário
+
+Este projeto tem como objetivo desenvolver um sistema de registro de informações médicas, focado nas etapas de Anamnese e Prontuário, que serão utilizadas por profissionais da saúde do NAP (Núcleo de Apoio Psicopedagógico da Univiçosa) para coletar e organizar dados dos pacientes. A proposta visa criar uma experiência de usuário intuitiva e eficiente, garantindo a acessibilidade e segurança das informações.
+O seguinte projeto é um sistema de relatórios de “Anamnese e Ficha de Prontuário”, realizado por nós na diciplina de Design de Interação. Assim tendo continuidade na disciplina de Projeto de Sistemas para Internet.
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
