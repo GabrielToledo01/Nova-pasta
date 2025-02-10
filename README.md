@@ -8,7 +8,7 @@ O seguinte projeto é um sistema de relatórios de “Anamnese e Ficha de Prontu
 This project aims to develop a system for recording medical information, focused on the Anamnesis and Medical Records stages, which will be used by health professionals from the NAP (Psychopedagogical Support Center of Univiçosa) to collect and organize patient data. The proposal aims to create an intuitive and efficient user experience, ensuring the accessibility and security of information.
 The following project is an “Anamnesis and Medical Record” reporting system, carried out by us in the Interaction Design discipline. Thus having continuity in the discipline of Systems Project for Internet.
 
- #Tecnologias Utilizadas
+ # Tecnologias Utilizadas
  - CodeIgniter 4 (PHP Framework)
  - HTML
  - CSS
